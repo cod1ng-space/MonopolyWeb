@@ -1,0 +1,478 @@
+{
+    "cardInfo": [
+        {
+            "typeCard": 5,
+            "name": "Начало"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 60,
+            "houseCost": 50,
+            "hotelCost": 50,
+            "depositCost": 30,
+            "redemptionCost": 36,
+            "rent": [
+                5,
+                25,
+                75,
+                200,
+                250,
+                300
+            ],
+            "color": "#6c3c0c",
+            "name": "Москва"
+        },
+        {
+            "typeCard": 4,
+            "name": "Общественная казна"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 60,
+            "houseCost": 50,
+            "hotelCost": 50,
+            "depositCost": 30,
+            "redemptionCost": 36,
+            "rent": [
+                5,
+                25,
+                75,
+                200,
+                250,
+                300
+            ],
+            "color": "#6c3c0c",
+            "name": "Санкт-Петербург"
+        },
+        {
+            "typeCard": 7,
+            "name": "Подоходный налог"
+        },
+        {
+            "typeCard": 1,
+            "startCost": 200,
+            "name": "Транссиб. магистраль"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 100,
+            "houseCost": 50,
+            "hotelCost": 50,
+            "depositCost": 50,
+            "redemptionCost": 60,
+            "rent": [
+                9,
+                45,
+                135,
+                360,
+                450,
+                540
+            ],
+            "color": "lightblue",
+            "name": "Новосибирск"
+        },
+        {
+            "typeCard": 3,
+            "name": "Шанс"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 100,
+            "houseCost": 50,
+            "hotelCost": 50,
+            "depositCost": 50,
+            "redemptionCost": 60,
+            "rent": [
+                9,
+                45,
+                135,
+                360,
+                450,
+                540
+            ],
+            "color": "lightblue",
+            "name": "Екатеринбург"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 120,
+            "houseCost": 50,
+            "hotelCost": 50,
+            "depositCost": 60,
+            "redemptionCost": 72,
+            "rent": [
+                10,
+                50,
+                150,
+                400,
+                500,
+                600
+            ],
+            "color": "lightblue",
+            "name": "Челябинск"
+        },
+        {
+            "typeCard": 5,
+            "name": "Тюрьма"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 140,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 70,
+            "redemptionCost": 84,
+            "rent": [
+                12,
+                60,
+                180,
+                480,
+                600,
+                720
+            ],
+            "color": "#f94279",
+            "name": "Красноярск"
+        },
+        {
+            "typeCard": 2,
+            "startCost": 150,
+            "name": "Энергосбыт"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 140,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 70,
+            "redemptionCost": 84,
+            "rent": [
+                12,
+                60,
+                180,
+                480,
+                600,
+                720
+            ],
+            "color": "#f94279",
+            "name": "Нижний Новгород"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 160,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 80,
+            "redemptionCost": 96,
+            "rent": [
+                14,
+                70,
+                210,
+                560,
+                700,
+                840
+            ],
+            "color": "#f94279",
+            "name": "Казань"
+        },
+        {
+            "typeCard": 1,
+            "startCost": 200,
+            "name": "Московская Ж/Д"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 180,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 90,
+            "redemptionCost": 108,
+            "rent": [
+                15,
+                75,
+                225,
+                600,
+                750,
+                900
+            ],
+            "color": "orange",
+            "name": "Самара"
+        },
+        {
+            "typeCard": 4,
+            "name": "Общественная казна"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 180,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 90,
+            "redemptionCost": 108,
+            "rent": [
+                15,
+                75,
+                225,
+                600,
+                750,
+                900
+            ],
+            "color": "orange",
+            "name": "Омск"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 200,
+            "houseCost": 100,
+            "hotelCost": 100,
+            "depositCost": 100,
+            "redemptionCost": 120,
+            "rent": [
+                17,
+                85,
+                255,
+                680,
+                850,
+                1020
+            ],
+            "color": "orange",
+            "name": "Ростов-на-Дону"
+        },
+        {
+            "typeCard": 5,
+            "name": "Стоянка"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 220,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 110,
+            "redemptionCost": 132,
+            "rent": [
+                19,
+                95,
+                285,
+                760,
+                950,
+                1140
+            ],
+            "color": "red",
+            "name": "Краснодар"
+        },
+        {
+            "typeCard": 3,
+            "name": "Шанс"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 220,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 110,
+            "redemptionCost": 132,
+            "rent": [
+                19,
+                95,
+                285,
+                760,
+                950,
+                1140
+            ],
+            "color": "red",
+            "name": "Волгоград"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 240,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 120,
+            "redemptionCost": 144,
+            "rent": [
+                20,
+                100,
+                300,
+                800,
+                1000,
+                1200
+            ],
+            "color": "red",
+            "name": "Пермь"
+        },
+        {
+            "typeCard": 1,
+            "startCost": 200,
+            "name": "Северо-Кавказская Ж/Д"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 260,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 130,
+            "redemptionCost": 156,
+            "rent": [
+                22,
+                110,
+                330,
+                880,
+                1100,
+                1320
+            ],
+            "color": "yellow",
+            "name": "Воронеж"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 260,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 130,
+            "redemptionCost": 156,
+            "rent": [
+                22,
+                110,
+                330,
+                880,
+                1100,
+                1320
+            ],
+            "color": "yellow",
+            "name": "Уфа"
+        },
+        {
+            "typeCard": 2,
+            "startCost": 150,
+            "name": "Водоканал"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 280,
+            "houseCost": 150,
+            "hotelCost": 150,
+            "depositCost": 140,
+            "redemptionCost": 168,
+            "rent": [
+                24,
+                120,
+                360,
+                960,
+                1200,
+                1440
+            ],
+            "color": "yellow",
+            "name": "Ярославль"
+        },
+        {
+            "typeCard": 6,
+            "name": "Отправляйтесь в тюрьму"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 300,
+            "houseCost": 200,
+            "hotelCost": 200,
+            "depositCost": 150,
+            "redemptionCost": 180,
+            "rent": [
+                25,
+                125,
+                375,
+                1000,
+                1250,
+                1500
+            ],
+            "color": "green",
+            "name": "Саратов"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 300,
+            "houseCost": 200,
+            "hotelCost": 200,
+            "depositCost": 150,
+            "redemptionCost": 180,
+            "rent": [
+                25,
+                125,
+                375,
+                1000,
+                1250,
+                1500
+            ],
+            "color": "green",
+            "name": "Тюмень"
+        },
+        {
+            "typeCard": 4,
+            "name": "Общественная казна"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 320,
+            "houseCost": 200,
+            "hotelCost": 200,
+            "depositCost": 160,
+            "redemptionCost": 192,
+            "rent": [
+                27,
+                135,
+                405,
+                1080,
+                1350,
+                1620
+            ],
+            "color": "green",
+            "name": "Ижевск"
+        },
+        {
+            "typeCard": 1,
+            "startCost": 200,
+            "name": "Западно-Сибирская Ж/Д"
+        },
+        {
+            "typeCard": 3,
+            "name": "Шанс"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 350,
+            "houseCost": 200,
+            "hotelCost": 200,
+            "depositCost": 175,
+            "redemptionCost": 210,
+            "rent": [
+                30,
+                150,
+                450,
+                1200,
+                1500,
+                1800
+            ],
+            "color": "blue",
+            "name": "Барнаул"
+        },
+        {
+            "typeCard": 8,
+            "name": "Сверхналог"
+        },
+        {
+            "typeCard": 0,
+            "startCost": 400,
+            "houseCost": 200,
+            "hotelCost": 200,
+            "depositCost": 200,
+            "redemptionCost": 240,
+            "rent": [
+                34,
+                170,
+                510,
+                1360,
+                1700,
+                2040
+            ],
+            "color": "blue",
+            "name": "Владивосток"
+        }
+    ]
+}

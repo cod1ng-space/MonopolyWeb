@@ -1,0 +1,78 @@
+body {
+    font-family: 'Comic Sans MS';
+}
+
+.container {
+    position: fixed;
+}
+
+.players {
+    z-index: 100;
+    position: fixed;
+    left: 16px;
+    top: 16px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+
+    .player {
+        border-radius: 8px;
+        display: flex;
+        column-gap: 12px;
+        align-items: center;
+        width: 300px;
+
+        .color {
+            border-radius: 50%;
+            background-color: white;
+            padding: 12px;
+            flex: 0 1 auto;
+            border: 2px solid white;
+            box-shadow: 0 0 16px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .name {
+            background-color: white;
+            padding: 8px;
+            flex: 1 1 auto;
+            border-radius: 8px;
+            box-shadow: 0 0 16px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .money {
+            background-color: white;
+            padding: 8px;
+            flex: 0 1 45px;
+            text-align: center;
+            border-radius: 8px;
+            box-shadow: 0 0 16px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .transfer {
+            flex: 0 1 50px;
+            opacity: 0;
+            font-weight: 800;
+            text-shadow: -0.5px 0 whitesmoke, 0 0.5px whitesmoke, 0.5px 0 whitesmoke, 0 -0.5px whitesmoke;
+
+            &.inc {
+                color: green;
+                animation: transfer_to_cash 5s;
+            }
+
+            &.dec {
+                color: red;
+                animation: transfer_to_cash 5s;
+            }
+        }
+    }
+}
+
+@keyframes transfer_to_cash {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,83 @@
+.wait-page {
+    .container {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .card {
+        padding: 20px;
+        background-color: rgba(0, 119, 182, 0.2);
+        width: 30vw;
+        border: 2px solid rgba(0, 119, 182, 0.2);
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .button_start, .button_leave{
+        
+        min-width: fit-content;
+        width: 200px;
+        margin-top: 10px;
+        text-decoration: none;
+        color: white;
+        background-color: #0077B6;
+        border: 2px solid #0077B6;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 40px;
+        outline: none;
+        font-size: inherit;
+        font-family: inherit;
+    }
+
+    .button_start:hover, .button_leave:hover{
+        background-color: #0096C7;
+        border: 2px solid #0096C7;
+    }
+
+    .button_start:active, .button_leave:active {
+        background-color: #0077B6;
+        border: 2px solid #0077B6;
+    }
+
+    .box {
+        width: 100%;
+        padding: 5px;
+    }
+
+    .player {
+        display: flex;
+        align-items: center;
+    }
+
+    .circle {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .color-0 {
+        background-color: blue;
+    }
+
+    .color-1 {
+        background-color: red;
+    }
+
+    .color-2 {
+        background-color: orange;
+    }
+
+    .color-3{
+        background-color: green;
+    }
+}

@@ -1,0 +1,251 @@
+<svg width="5570" height="5570" viewBox="0 0 5570 5570" style="background-color: rgb(201, 220, 201)" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<style>
+.mon-title { font-size: 100px; font-weight: 800; font-family: "Comic Sans MS"; text-align: center; dominant-baseline: middle; text-anchor: middle; }
+.mon-subtitle { font-size: 40px; font-weight: 400; font-family: "Comic Sans MS"; text-align: center; dominant-baseline: middle; text-anchor: middle; }
+.text-top { font-size: 10px; font-weight: 600; font-family: "Comic Sans MS"; text-align: center; dominant-baseline: text-before-edge; text-anchor: middle; }
+.text-bottom { font-size: 10px; font-weight: 400; font-family: "Comic Sans MS"; text-align: center; dominant-baseline: text-after-edge; text-anchor: middle; }
+</style>
+<g style="scale: 5">
+<rect x="872" y="962" width="90" height="37" fill="#6c3c0c" />
+<rect x="692" y="962" width="90" height="37" fill="#6c3c0c" />
+<rect x="422" y="962" width="90" height="37" fill="lightblue" />
+<rect x="152" y="962" width="180" height="37" fill="lightblue" />
+<rect x="115" y="872" width="37" height="90" fill="#f94279" />
+<rect x="115" y="602" width="37" height="180" fill="#f94279" />
+<rect x="115" y="422" width="37" height="90" fill="orange" />
+<rect x="115" y="152" width="37" height="180" fill="orange" />
+<rect x="152" y="115" width="90" height="37" fill="red" />
+<rect x="332" y="115" width="180" height="37" fill="red" />
+<rect x="602" y="115" width="180" height="37" fill="yellow" />
+<rect x="872" y="115" width="90" height="37" fill="yellow" />
+<rect x="962" y="152" width="37" height="180" fill="green" />
+<rect x="962" y="422" width="37" height="90" fill="green" />
+<rect x="962" y="692" width="37" height="90" fill="blue" />
+<rect x="962" y="872" width="37" height="90" fill="blue" />
+<path d="m2 2 h1110 v1110 h-1110 v-1110 h5 m-5 150 h1110 m-1110 810 h1110 m-960 -960 v1110 m810 -1110 v1110 m-720 -1110 v150 m90 0 v-150 m90 0 v150 m90 0 v-150 m90 0 v150 m90 0 v-150 m90 0 v150 m90 0 v-150 m90 240 h150 m0 90 h-150 m0 90 h150 m0 90 h-150 m0 90 h150 m0 90 h-150 m0 90 h150 m0 90 h-150 m-90 90 v150 m-90 0 v-150 m-90 0 v150 m-90 0 v-150 m-90 0 v150 m-90 0 v-150 m-90 0 v150 m-90 0 v-150 m-90 -90 h-150 m0 -90 h150 m0 -90 h-150 m0 -90 h150 m0 -90 h-150 m0 -90 h150 m0 -90 h-150 m0 -90 h150 m810 757 h-90 m-90 0 h-90 m-180 0 h-90 m-90 0 h-180 m-37 -37 v-90 m0 -90 v-180 m0 -90 v-90 m0 -90 v-180 m37 -37 h90 m90 0 h180 m90 0 h180 m90 0 h90 m37 37 v180 m0 90 v90 m0 180 v90 m0 90 v90 " fill="none" stroke="black" stroke-width="5" />
+<text x="527" y="527" class="mon-title" transform="rotate(-45, 527, 527)">МОНОПОЛИЯ</text>
+<text x="587" y="587" class="mon-subtitle" transform="rotate(-45, 587, 587)">Играй и выигрывай!</text>
+<text x="917" y="1011" class="text-top" transform="rotate(0, 917, 1011)">
+<tspan x="917" dy="0">Москва</tspan>
+</text>
+<text x="917" y="1100" class="text-bottom" transform="rotate(0, 917, 1100)">
+60
+</text>
+<text x="827" y="974" class="text-top" transform="rotate(0, 827, 974)">
+<tspan x="827" dy="0">Общественная</tspan>
+<tspan x="827" dy="15">казна</tspan>
+</text>
+<text x="737" y="1011" class="text-top" transform="rotate(0, 737, 1011)">
+<tspan x="738" dy="0">Владимир</tspan>
+</text>
+<text x="737" y="1100" class="text-bottom" transform="rotate(0, 737, 1100)">
+60
+</text>
+<text x="647" y="974" class="text-top" transform="rotate(0, 647, 974)">
+<tspan x="647" dy="0">Подоходный</tspan>
+<tspan x="647" dy="15">налог</tspan>
+</text>
+<text x="647" y="1100" class="text-bottom" transform="rotate(0, 647, 1100)">
+200
+</text>
+<text x="557" y="974" class="text-top" transform="rotate(0, 557, 974)">
+<tspan x="557" dy = "0">Транссибирская</tspan>
+<tspan x="557" dy = "15">магистраль</tspan>
+</text>
+<text x="557" y="1100" class="text-bottom" transform="rotate(0, 557, 1100)">
+200
+</text>
+<text x="467" y="1011" class="text-top" transform="rotate(0, 467, 1011)">
+<tspan x="467" dy="0">Новосибирск</tspan>
+</text>
+<text x="467" y="1100" class="text-bottom" transform="rotate(0, 467, 1100)">
+100
+</text>
+<text x="377" y="974" class="text-top" transform="rotate(0, 377, 974)">
+Шанс
+</text>
+<text x="287" y="1011" class="text-top" transform="rotate(0, 287, 1011)">
+<tspan x="287" dy="0">Ул.</tspan>
+<tspan x="287" dy="15">Огарёво</tspan>
+</text>
+<text x="287" y="1100" class="text-bottom" transform="rotate(0, 287, 1100)">
+100
+</text>
+<text x="197" y="1011" class="text-top" transform="rotate(0, 197, 1011)">
+<tspan x="197" dy="0">Первая</tspan>
+<tspan x="197" dy="15">Парковая Ул.</tspan>
+</text>
+<text x="197" y="1100" class="text-bottom" transform="rotate(0, 197, 1100)">
+120
+</text>
+<text x="103" y="917" class="text-top" transform="rotate(90, 103, 917)">
+<tspan x="103" dy="0">Ул.</tspan>
+<tspan x="103" dy="15">Полянка</tspan>
+</text>
+<text x="14" y="917" class="text-bottom" transform="rotate(90, 14, 917)">
+140
+</text>
+<text x="140" y="827" class="text-top" transform="rotate(90, 140, 827)">
+Электростанция
+</text>
+<text x="14" y="827" class="text-bottom" transform="rotate(90, 14, 827)">
+150
+</text>
+<text x="103" y="737" class="text-top" transform="rotate(90, 103, 737)">
+<tspan x="103" dy="0">Ул.</tspan>
+<tspan x="103" dy="15">Сретенка</tspan>
+</text>
+<text x="14" y="737" class="text-bottom" transform="rotate(90, 14, 737)">
+140
+</text>
+<text x="103" y="647" class="text-top" transform="rotate(90, 103, 647)">
+<tspan x="103" dy="0">Ростовская</tspan>
+<tspan x="103" dy="15">набережная</tspan>
+</text>
+<text x="14" y="647" class="text-bottom" transform="rotate(90, 14, 647)">
+160
+</text>
+<text x="140" y="557" class="text-top" transform="rotate(90, 140, 557)">
+<tspan x="140" dy="0">Морские</tspan>
+<tspan x="140" dy="15">перевозки</tspan>
+</text>
+<text x="14" y="557" class="text-bottom" transform="rotate(90, 14, 557)">
+200
+</text>
+<text x="103" y="467" class="text-top" transform="rotate(90, 103, 467)">
+<tspan x="103" dy="0">Разянский</tspan>
+<tspan x="103" dy="15">проспект</tspan>
+</text>
+<text x="14" y="467" class="text-bottom" transform="rotate(90, 14, 467)">
+180
+</text>
+<text x="140" y="377" class="text-top" transform="rotate(90, 140, 377)">
+<tspan x="140" dy="0">Общественная</tspan>
+<tspan x="140" dy="15">казна</tspan>
+</text>
+<text x="103" y="287" class="text-top" transform="rotate(90, 103, 287)">
+<tspan x="103" dy="0">Ул.</tspan>
+<tspan x="103" dy="15">Вавилова</tspan>
+</text>
+<text x="14" y="287" class="text-bottom" transform="rotate(90, 14, 287)">
+180
+</text>
+<text x="103" y="197" class="text-top" transform="rotate(90, 103, 197)">
+<tspan x="103" dy="0">Рублёвское</tspan>
+<tspan x="103" dy="15">шоссе</tspan>
+</text>
+<text x="14" y="197" class="text-bottom" transform="rotate(90, 14, 197)">
+200
+</text>
+<text x="197" y="103" class="text-top" transform="rotate(180, 197, 103)">
+<tspan x="197" dy="0">Ул.</tspan>
+<tspan x="197" dy="15">Тверская</tspan>
+</text>
+<text x="197" y="14" class="text-bottom" transform="rotate(180, 197, 14)">
+220
+</text>
+<text x="287" y="140" class="text-top" transform="rotate(180, 287, 140)">
+Шанс
+</text>
+<text x="377" y="103" class="text-top" transform="rotate(180, 377, 103)">
+<tspan x="377" dy="0">Пушкинская</tspan>
+<tspan x="377" dy="15">ул.</tspan>
+</text>
+<text x="377" y="14" class="text-bottom" transform="rotate(180, 377, 14)">
+220
+</text>
+<text x="467" y="103" class="text-top" transform="rotate(180, 467, 103)">
+<tspan x="467" dy="0">Площадь</tspan>
+<tspan x="467" dy="15">Маяковского</tspan>
+</text>
+<text x="467" y="14" class="text-bottom" transform="rotate(180, 467, 14)">
+240
+</text>
+<text x="557" y="140" class="text-top" transform="rotate(180, 557, 140)">
+Космос
+</text>
+<text x="557" y="14" class="text-bottom" transform="rotate(180, 557, 14)">
+200
+</text>
+<text x="647" y="103" class="text-top" transform="rotate(180, 647, 103)">
+<tspan x="647" dy="0">Ул.</tspan>
+<tspan x="647" dy="15">Грузинский вал</tspan>
+</text>
+<text x="647" y="14" class="text-bottom" transform="rotate(180, 647, 14)">
+260
+</text>
+<text x="737" y="103" class="text-top" transform="rotate(180, 737, 103)">
+<tspan x="737" dy="0">Ул.</tspan>
+<tspan x="737" dy="15">Чайковского</tspan>
+</text>
+<text x="737" y="14" class="text-bottom" transform="rotate(180, 737, 14)">
+260
+</text>
+<text x="827" y="140" class="text-top" transform="rotate(180, 827, 140)">
+Водопровод
+</text>
+<text x="827" y="14" class="text-bottom" transform="rotate(180, 827, 14)">
+150
+</text>
+<text x="917" y="103" class="text-top" transform="rotate(180, 917, 103)">
+<tspan x="917" dy="0">Смоленская</tspan>
+<tspan x="917" dy="15">площадь</tspan>
+</text>
+<text x="917" y="14" class="text-bottom" transform="rotate(180, 917, 14)">
+280
+</text>
+<text x="1011" y="197" class="text-top" transform="rotate(270, 1011, 197)">
+<tspan x="1011" dy="0">Ул.</tspan>
+<tspan x="1011" dy="15">Щусева</tspan>
+</text>
+<text x="1100" y="197" class="text-bottom" transform="rotate(270, 1100, 197)">
+300
+</text>
+<text x="1011" y="287" class="text-top" transform="rotate(270, 1011, 287)">
+<tspan x="1011" dy="0">Гоголевский</tspan>
+<tspan x="1011" dy="15">бульвар</tspan>
+</text>
+<text x="1100" y="287" class="text-bottom" transform="rotate(270, 1100, 287)">
+300
+</text>
+<text x="974" y="377" class="text-top" transform="rotate(270, 974, 377)">
+<tspan x="974" dy="0">Общественная</tspan>
+<tspan x="974" dy="15">казна</tspan>
+</text>
+<text x="1011" y="467" class="text-top" transform="rotate(270, 1011, 467)">
+<tspan x="1011" dy="0">Кутузовский</tspan>
+<tspan x="1011" dy="15">проспект</tspan>
+</text>
+<text x="1100" y="467" class="text-bottom" transform="rotate(270, 1100, 467)">
+320
+</text>
+<text x="974" y="557" class="text-top" transform="rotate(270, 974, 557)">
+<tspan x="974" dy="0">Авиа</tspan>
+<tspan x="974" dy="15">перевозки</tspan>
+</text>
+<text x="1100" y="557" class="text-bottom" transform="rotate(270, 1100, 557)">
+200
+</text>
+<text x="974" y="647" class="text-top" transform="rotate(270, 974, 647)">
+Шанс
+</text>
+<text x="1011" y="737" class="text-top" transform="rotate(270, 1011, 737)">
+Мытищи
+</text>
+<text x="1100" y="737" class="text-bottom" transform="rotate(270, 1100, 737)">
+350
+</text>
+<text x="974" y="827" class="text-top" transform="rotate(270, 974, 827)">
+Сверхналог
+</text>
+<text x="1100" y="827" class="text-bottom" transform="rotate(270, 1100, 827)">
+100
+</text>
+<text x="1011" y="917" class="text-top" transform="rotate(270, 1011, 917)">
+Серпухов
+</text>
+<text x="1100" y="917" class="text-bottom" transform="rotate(270, 1100, 917)">
+400
+</text>
+</g>
+</svg>

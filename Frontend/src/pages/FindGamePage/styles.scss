@@ -1,0 +1,65 @@
+.find-game-page {
+    .container {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .card {
+        padding: 20px;
+        background-color: rgba(0, 119, 182, 0.2);
+        width: 30vw;
+        border: 2px solid rgba(0, 119, 182, 0.2);
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .button_find {
+        width: fit-content;
+        margin-top: 10px;
+        text-decoration: none;
+        color: white;
+        background-color: #0077B6;
+        border: 2px solid #0077B6;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 40px;
+        outline: none;
+        font-size: inherit;
+        font-family: inherit;
+    }
+
+    .button_find:hover {
+        background-color: #0096C7;
+        border: 2px solid #0096C7;
+    }
+
+    .button_find:active {
+        background-color: #0077B6;
+        border: 2px solid #0077B6;
+    }
+
+    .input_game_id{
+        outline: none;
+        padding-block: 10px;
+        padding-inline: 10px;
+        margin-block: 10px;
+        background-color: #ADE8F4;
+        border: 1px solid #ADE8F4;
+        border-radius: 5px;
+        width: 100%;
+        font-size: inherit;
+    }
+
+    .box {
+        width: 100%;
+        padding: 5px;
+    }
+}

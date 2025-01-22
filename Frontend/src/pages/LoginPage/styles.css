@@ -1,0 +1,84 @@
+body {
+    background: linear-gradient(#00B4D8, #ADE8F4, #90E0EF);
+    color: #03045E;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card {
+    font-size: 22px;
+    padding: 20px;
+    background-color: rgba(0, 119, 182, 0.2);
+    width: 30vw;
+    border: 2px solid rgba(0, 119, 182, 0.2);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.type_card {
+    text-align: center;
+    margin-block: 20px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.button_login,
+.button_switch {
+    width: 100%;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #0077B6;
+    border: 2px solid #0077B6;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 40px;
+    outline: none;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+.button_login:hover,
+.button_switch:hover {
+    background-color: #0096C7;
+    border: 2px solid #0096C7;
+}
+
+.button_login:active,
+.button_switch:active {
+    background-color: #0077B6;
+    border: 2px solid #0077B6;
+}
+
+.input_login,
+.input_password,
+.input_repeat_password {
+    outline: none;
+    padding-block: 10px;
+    padding-inline: 10px;
+    margin-block: 10px;
+    background-color: #ADE8F4;
+    border: 1px solid #ADE8F4;
+    border-radius: 5px;
+    width: 100%;
+    font-size: inherit;
+}
+
+input {
+    box-sizing: border-box;
+}
+
+.message_to_user{
+    color: red;
+    font-size: 18px;
+}

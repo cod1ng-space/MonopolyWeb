@@ -1,0 +1,15 @@
+{
+    "mapSize": 1114,
+    "cardWidth": 90,
+    "cardHeight": 150,
+    "mapBorder": 2,
+    "scale": 0.0017953321364452424,
+    "diceSize": 0.05,
+    "diceBetween": 0.1,
+    "diceInitHeight": 3.5,
+    "cardMarkerOffset": 25,
+    "cardMarkerWidth": 20,
+    "playerOffset": 0.05,
+    "houseOffset": 0.125,
+    "houseSpaceBetween": 20
+}
